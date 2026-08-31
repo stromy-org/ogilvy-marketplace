@@ -9,7 +9,7 @@
     {
       "name": "ogilvy-plugin",
       "description": "Claude Code plugin for Ogilvy Dominicana branded deliverables (format skills via stromy-format MCP) and Dominican Republic government-data intelligence (do-gov-data MCP)",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "author": {
         "name": "Stromy"
       },
