@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ogilvy-marketplace",
+  "description": "Plugin marketplace for Ogilvy Dominicana Claude Code plugins",
+  "owner": {
+    "name": "stromy-org"
+  },
+  "plugins": [
+    {
+      "name": "ogilvy-plugin",
+      "description": "Claude Code plugin for Ogilvy Dominicana branded deliverables (format skills via stromy-format MCP) and Dominican Republic government-data intelligence (do-gov-data MCP)",
+      "version": "0.1.0",
+      "author": {
+        "name": "Stromy"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/stromy-org/ogilvy-plugin.git"
+      }
+    }
+  ]
+}
