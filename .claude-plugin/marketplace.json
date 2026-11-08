@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "ogilvy-plugin",
-      "description": "Plugin for Ogilvy Dominicana branded deliverables (format skills via stromy-format MCP) and Dominican Republic government-data intelligence (do-gov-data MCP)",
-      "version": "0.2.37",
+      "description": "Plugin for Ogilvy Dominicana branded deliverables (format skills via stromy-format MCP)",
+      "version": "0.2.38",
       "author": {
         "name": "Stromy"
       },
